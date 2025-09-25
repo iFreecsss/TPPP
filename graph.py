@@ -1,5 +1,5 @@
 from utils import *
-
+# PETARD J AI ENCAISSEEEE MERCI PORTTOOOOOOO
 # fonction qui ajoute le noeud au graphe
 def add_node(graph, node):
     if node not in graph:
